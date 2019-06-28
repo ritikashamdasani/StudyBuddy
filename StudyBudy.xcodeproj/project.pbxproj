@@ -10,6 +10,7 @@
 		181B0CC222C3E22F00F37866 /* PhotoTableTableViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 181B0CC122C3E22F00F37866 /* PhotoTableTableViewController.swift */; };
 		181B0CC422C3E3BF00F37866 /* PhotoDetailViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 181B0CC322C3E3BF00F37866 /* PhotoDetailViewController.swift */; };
 		181B0CC622C3FEC800F37866 /* ImageUtilities .swift in Sources */ = {isa = PBXBuildFile; fileRef = 181B0CC522C3FEC800F37866 /* ImageUtilities .swift */; };
+		1856698E22C5450B007EF4A8 /* TimerViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1856698D22C5450B007EF4A8 /* TimerViewController.swift */; };
 		18E9841122C3C69D000846EB /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 18E9841022C3C69D000846EB /* AppDelegate.swift */; };
 		18E9841622C3C69D000846EB /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 18E9841422C3C69D000846EB /* Main.storyboard */; };
 		18E9841922C3C69D000846EB /* StudyBudy.xcdatamodeld in Sources */ = {isa = PBXBuildFile; fileRef = 18E9841722C3C69D000846EB /* StudyBudy.xcdatamodeld */; };
@@ -41,6 +42,7 @@
 		181B0CC122C3E22F00F37866 /* PhotoTableTableViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PhotoTableTableViewController.swift; sourceTree = "<group>"; };
 		181B0CC322C3E3BF00F37866 /* PhotoDetailViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PhotoDetailViewController.swift; sourceTree = "<group>"; };
 		181B0CC522C3FEC800F37866 /* ImageUtilities .swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "ImageUtilities .swift"; sourceTree = "<group>"; };
+		1856698D22C5450B007EF4A8 /* TimerViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TimerViewController.swift; sourceTree = "<group>"; };
 		18E9840D22C3C69D000846EB /* Study Buddy.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "Study Buddy.app"; sourceTree = BUILT_PRODUCTS_DIR; };
 		18E9841022C3C69D000846EB /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		18E9841522C3C69D000846EB /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
@@ -107,6 +109,7 @@
 			children = (
 				18E9841022C3C69D000846EB /* AppDelegate.swift */,
 				18E9841422C3C69D000846EB /* Main.storyboard */,
+				1856698D22C5450B007EF4A8 /* TimerViewController.swift */,
 				181B0CC322C3E3BF00F37866 /* PhotoDetailViewController.swift */,
 				18E9844122C3CA9F000846EB /* AddPhotoViewController.swift */,
 				181B0CC122C3E22F00F37866 /* PhotoTableTableViewController.swift */,
@@ -271,6 +274,7 @@
 				18E9841922C3C69D000846EB /* StudyBudy.xcdatamodeld in Sources */,
 				181B0CC622C3FEC800F37866 /* ImageUtilities .swift in Sources */,
 				18E9844222C3CA9F000846EB /* AddPhotoViewController.swift in Sources */,
+				1856698E22C5450B007EF4A8 /* TimerViewController.swift in Sources */,
 				18E9841122C3C69D000846EB /* AppDelegate.swift in Sources */,
 				181B0CC422C3E3BF00F37866 /* PhotoDetailViewController.swift in Sources */,
 				181B0CC222C3E22F00F37866 /* PhotoTableTableViewController.swift in Sources */,
